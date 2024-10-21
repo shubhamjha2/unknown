@@ -31,7 +31,7 @@
 }
 
 .inner-container{
-  display: flex; justify-content: space-between; padding-top: 10px;
+  display: flex; justify-content: space-between;
 }
 
 
@@ -5277,9 +5277,9 @@
   display: inline-block;
 }
 .slider-it-main .slider-content-it .title-slider {
-    margin-top: -10px;
-    margin-bottom: 272px;
-    padding-left: 35px;
+  margin-top: -94px;
+  margin-bottom: 136px;
+  padding-left: 40px;
 }
 .slider-it-main .slider-content-it .des {
   font-size: 20px;
@@ -9731,7 +9731,7 @@ body .dribbble img {
     margin-left: 30px;
   }
   .main-header.header-style1 .header-lower .header-account .flat-bt-top .icon-listing {
-    padding: 35px 30px 35px 30px;
+    padding: 30px 25px 30px 25px;
   }
   .main-header.header-style1 .header-top {
     padding: 5px 15px 5px 15px;
