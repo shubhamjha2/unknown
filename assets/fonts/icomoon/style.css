@@ -64,6 +64,9 @@
 .icon-software-development-1:before {
   content: "\e90c";
 }
+.icon-app-development-1:before {
+  content: "\e928";
+}
 .icon-self-development-3:before {
   content: "\e90d";
 }
