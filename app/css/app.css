@@ -21,6 +21,12 @@
   width: 100%;
   position: relative;
 }
+.text-justification{
+  text-align: justify;
+  letter-spacing: 0;
+  word-spacing: 0;
+  hyphens: auto;
+}
 
 .main-header.header-style1 {
   position: absolute;
